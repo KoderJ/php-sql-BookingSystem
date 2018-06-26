@@ -1,0 +1,16 @@
+tr.header{
+    text-align: center;
+    background-color:#4CAF50;
+    color:white;
+}
+.label{
+    text-align: right;
+}
+.formitem{
+    width: 200px;
+}
+.formheader{
+   text-align: left;
+   font-weight: bold;
+   font-size: xx-large;
+}
